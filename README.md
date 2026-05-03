@@ -247,13 +247,13 @@ seaborn>=0.12.0
 <div align="center">
 
 **Prachi**
-*AI/ML Engineer Intern @ MechSwap*
+*AI/ML Engineer*
 *B.E. Electronics & Communication — Thapar Institute of Engineering & Technology*
 *CGPA: 8.31 | Batch of 2027*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1D6B72?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prachi-98109a2aa/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode)]( https://leetcode.com/Prachi_1416)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1D6B72?style=for-the-badge&logo=googlechrome&logoColor=white)]( https://prachii345.github.io/)
 
 *Selected for McKinsey Forward Program 2025 · AlgoUniversity Fellowship (Top 800/20,000)*
 
